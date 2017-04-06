@@ -1,0 +1,24 @@
+{
+  "name": "pf-elements",
+  "homepage": "https://github.com/PFElements/pf-elements",
+  "authors": [
+    "PixyFlux <info@pixyflux.com>"
+  ],
+  "description": "Polymer 2.0 based open source elements",
+  "keywords": [
+    "element-collection",
+    "core",
+    "elements",
+    "web",
+    "components",
+    "webcomponents",
+    "web-components"
+  ],
+  "main": "pf-elements.html",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "pf-calendar-events": "PFElements/pf-calendar-events",
+    "pf-pageindicator": "PFElements/pf-pageindicator"
+  }
+}
