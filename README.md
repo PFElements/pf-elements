@@ -1,24 +1,26 @@
 # pf-elements
 A Polymer 2.0 based collection of reusable web components 
 
-[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)]
+[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/collection/pfelements/pf-elements)
 
 
 # PF Elements
 
-[pf elements] are Polymer 2.0 based custom elements that provide building blocks to be used in a progressive webapp. 
+[PF Elements] (https://github.com/PFElements/) are Polymer 2.0 based custom elements that provide building blocks to be used in a progressive webapp. For those who require high quality elements that can be served across Web Android and iOS platforms.
 
 PF Elements is a collection that contains all elements listed below.
 
-| Element | Latest Version | Build Status 
-|---------|----------------|--------------|-------------------|
+| Element | Latest Version | Build Status |
+|---------|----------------|--------------|
 | [pf-pageindicator](https://github.com/PFElements/pf-pageindicator) | [![GitHub version](https://badge.fury.io/gh/PFElements%2Fpf-pageindicator.svg)](https://badge.fury.io/gh/PFElements%2Fpf-pageindicator) | [![Build Status](https://travis-ci.org/PFElements/pf-pageindicator.svg?branch=master)](https://travis-ci.org/PFElements/pf-pageindicator) | 
+
+| [pf-calendar-event](https://github.com/PFElements/pf-calendar-events) | [![GitHub version](https://badge.fury.io/gh/PFElements%2Fpf-calendar-events)](https://badge.fury.io/gh/PFElements%2Fpf-calendar-events) | [![Build Status](https://travis-ci.org/PFElements/pf-calendar-events.svg?branch=master)](https://travis-ci.org/PFElements/pf-calendar-events) | 
 
 ## Learn more
 
 See the list of elements, demos, and documentation by browsing this collection on webcomponents.org:
 
-### [Go to webcomponents.org ›]
+### [Go to webcomponents.org](https://www.webcomponents.org/collection/pfelements/pf-elements)
 
 ---
 
