@@ -6,14 +6,13 @@ A Polymer 2.0 based collection of reusable web components
 
 # PF Elements
 
-[PF Elements] (https://github.com/PFElements/) are Polymer 2.0 based custom elements that provide building blocks to be used in a progressive webapp. For those who require high quality elements that can be served across Web Android and iOS platforms.
+[PF Elements](https://github.com/PFElements/) are Polymer 2.0 based custom elements that provide building blocks to be used in a progressive webapp. For those who require high quality elements that can be served across Web Android and iOS platforms.
 
 PF Elements is a collection that contains all elements listed below.
 
 | Element | Latest Version | Build Status |
 |---------|----------------|--------------|
 | [pf-pageindicator](https://github.com/PFElements/pf-pageindicator) | [![GitHub version](https://badge.fury.io/gh/PFElements%2Fpf-pageindicator.svg)](https://badge.fury.io/gh/PFElements%2Fpf-pageindicator) | [![Build Status](https://travis-ci.org/PFElements/pf-pageindicator.svg?branch=master)](https://travis-ci.org/PFElements/pf-pageindicator) | 
-
 | [pf-calendar-event](https://github.com/PFElements/pf-calendar-events) | [![GitHub version](https://badge.fury.io/gh/PFElements%2Fpf-calendar-events)](https://badge.fury.io/gh/PFElements%2Fpf-calendar-events) | [![Build Status](https://travis-ci.org/PFElements/pf-calendar-events.svg?branch=master)](https://travis-ci.org/PFElements/pf-calendar-events) | 
 
 ## Learn more
