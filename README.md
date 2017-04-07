@@ -10,10 +10,10 @@ A Polymer 2.0 based collection of reusable web components
 
 PF Elements is a collection that contains all elements listed below.
 
-| Element | Latest Version | Build Status |
-|---------|----------------|--------------|
-| [pf-pageindicator](https://github.com/PFElements/pf-pageindicator) | [![GitHub version](https://badge.fury.io/gh/PFElements%2Fpf-pageindicator.svg)](https://badge.fury.io/gh/PFElements%2Fpf-pageindicator) | [![Build Status](https://travis-ci.org/PFElements/pf-pageindicator.svg?branch=master)](https://travis-ci.org/PFElements/pf-pageindicator) | 
-| [pf-calendar-event](https://github.com/PFElements/pf-calendar-events) | [![GitHub version](https://badge.fury.io/gh/PFElements%2Fpf-calendar-events)](https://badge.fury.io/gh/PFElements%2Fpf-calendar-events) | [![Build Status](https://travis-ci.org/PFElements/pf-calendar-events.svg?branch=master)](https://travis-ci.org/PFElements/pf-calendar-events) | 
+| Element Name | Latest Version (Bower) | Npm version  | Build Status |
+|--------------|------------------------|--------------|--------------|
+| [pf-pageindicator](https://github.com/PFElements/pf-pageindicator) | [![GitHub version](https://badge.fury.io/gh/PFElements%2Fpf-pageindicator.svg)](https://badge.fury.io/gh/PFElements%2Fpf-pageindicator) | [![npm version](https://badge.fury.io/js/pf-pageindicator.svg)](https://www.npmjs.com/package/pf-pageindicator) |[![Build Status](https://travis-ci.org/PFElements/pf-pageindicator.svg?branch=master)](https://travis-ci.org/PFElements/pf-pageindicator) | 
+| [pf-calendar-event](https://github.com/PFElements/pf-calendar-events) | [![GitHub version](https://badge.fury.io/gh/PFElements%2Fpf-calendar-events)](https://badge.fury.io/gh/PFElements%2Fpf-calendar-events) | [![npm version](https://badge.fury.io/js/pf-calendar-events.svg)](https://www.npmjs.com/package/pf-calendar-events) |[![Build Status](https://travis-ci.org/PFElements/pf-calendar-events.svg?branch=master)](https://travis-ci.org/PFElements/pf-calendar-events) | 
 
 ## Learn more
 
