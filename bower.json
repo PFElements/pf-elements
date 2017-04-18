@@ -18,7 +18,11 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
+    "pf-calendar": "https://github.com/PFElements/pf-calendar",
     "pf-calendar-events": "PFElements/pf-calendar-events",
+    "pf-calendar-events-data": "https://github.com/PFElements/pf-calendar-events-data",
     "pf-pageindicator": "PFElements/pf-pageindicator"
+    
+    
   }
 }
