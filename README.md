@@ -18,6 +18,9 @@ PF Elements is a collection that contains all elements listed below.
 | [pf-calendar](https://github.com/PFElements/pf-calendar) | [![GitHub version](https://badge.fury.io/gh/PFElements%2Fpf-calendar.svg)](https://badge.fury.io/gh/PFElements%2Fpf-calendar) | [![npm version](https://badge.fury.io/js/pf-calendar.svg)](https://www.npmjs.com/package/pf-calendar) |[![Build Status](https://travis-ci.org/PFElements/pf-calendar.svg?branch=master)](https://travis-ci.org/PFElements/pf-calendar) | | [pf-calendar-event]|
 | [pf-calendar-events](https://github.com/PFElements/pf-calendar-events) | [![GitHub version](https://badge.fury.io/gh/PFElements%2Fpf-calendar-events.svg)](https://badge.fury.io/gh/PFElements%2Fpf-calendar-events) | [![npm version](https://badge.fury.io/js/pf-calendar-events.svg)](https://www.npmjs.com/package/pf-calendar-events) |[![Build Status](https://travis-ci.org/PFElements/pf-calendar-events.svg?branch=master)](https://travis-ci.org/PFElements/pf-calendar-events) | 
 | [pf-calendar-events-data](https://github.com/PFElements/pf-calendar-events-data) | [![GitHub version](https://badge.fury.io/gh/PFElements%2Fpf-calendar-events-data.svg)](https://badge.fury.io/gh/PFElements%2Fpf-calendar-events-data) | [![npm version](https://badge.fury.io/js/pf-calendar-events-data.svg)](https://www.npmjs.com/package/pf-calendar-events-data) |[![Build Status](https://travis-ci.org/PFElements/pf-calendar-events-data.svg?branch=master)](https://travis-ci.org/PFElements/pf-calendar-events-data) | 
+| [pf-parallax-video](https://github.com/PFElements/pf-parallax-video) | [![GitHub version](https://badge.fury.io/gh/PFElements%2Fpf-parallax-video.svg)](https://badge.fury.io/gh/PFElements%2Fpf-parallax-video) | [![npm version](https://badge.fury.io/js/pf-parallax-video.svg)](https://www.npmjs.com/package/pf-parallax-video) |[![Build Status](https://travis-ci.org/PFElements/pf-parallax-video.svg?branch=master)](https://travis-ci.org/PFElements/pf-parallax-video) | 
+| [pf-guided-tour] | coming soon | coming soon | coming soon |
+| [pf-txt-anime]| coming soon | coming soon | coming soon |
 
 
 
@@ -41,6 +44,7 @@ Joing us at [![Join the chat at https://gitter.im/pf-elements/Lobby](https://bad
 - [Facebook] (https://www.facebook.com/polymerjs)
 - [Google+] (https://plus.google.com/116168214823506639166) 
 - [YouTube] (https://www.youtube.com/channel/UCDKqvDyAn_QTBvCPvrZKTkw) 
+- [Website] (https://polymerjs.io)
 
 ### Some ways to help:
 
