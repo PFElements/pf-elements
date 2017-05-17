@@ -1,16 +1,15 @@
-# pf-elements
 
-[![Join the chat at https://gitter.im/pf-elements/Lobby](https://badges.gitter.im/pf-elements/Lobby.svg)](https://gitter.im/pf-elements/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A Polymer 2.0 based collection of reusable web components (Custom Elements)
 
-[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/collection/pfelements/pf-elements)
-
+[![Join the chat at https://gitter.im/pf-elements/Lobby](https://badges.gitter.im/pf-elements/Lobby.svg)](https://gitter.im/pf-elements/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/PFElements/pf-calendar-events)
+[![Polymer Version](https://img.shields.io/badge/polymer-v2-blue.svg)](https://www.polymer-project.org)
 
 # PF Elements
 
 [PF Elements](https://github.com/PFElements/) are Polymer 2.0 based custom elements that provide building blocks to be used in a progressive webapp. For those who require high quality elements that can be served across Web Android and iOS platforms.
 
-PF Elements is a collection that contains all elements listed below.
+PF Elements are a collection that contains all elements listed below.
 
 | Element Name | Latest Version (Bower) | Npm version  | Build Status |
 |--------------|------------------------|--------------|--------------|
